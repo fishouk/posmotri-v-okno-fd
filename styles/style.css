@@ -113,7 +113,7 @@ ol {
 
 .result__video-container {
   width: 100%;
-  margin-bottom: 16px; 
+  margin-bottom: 16px;
   margin-block-end: 16px;
   position: relative;
 }
@@ -159,11 +159,6 @@ ol {
 
 .search-form__label:has(.search-form__checkbox:checked) .search-form__pseudo-checkbox::after {
   display: block;
-}
-
-.search-form__label:focus-visible {
-  outline: 1px solid #fff;
-  outline-offset: 1px;
 }
 
 .search-form__label:hover .search-form__label-text {
