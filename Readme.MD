@@ -1,1 +1,0 @@
-https://github.com/fishouk/posmotri-v-okno-fd
