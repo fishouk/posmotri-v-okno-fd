@@ -113,7 +113,6 @@ ol {
 
 .result__video-container {
   width: 100%;
-  margin-bottom: 16px;
   margin-block-end: 16px;
   position: relative;
 }
@@ -230,7 +229,6 @@ ol {
 /* правая колонка */
 .content__details {
   width: 100%;
-  max-height: 534px;
   display: flex;
   flex-direction: column;
   gap: 26px;
@@ -254,6 +252,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  max-height: 300px;
   position: relative;
 }
 
@@ -302,7 +301,6 @@ ol {
   font-weight: 700;
   line-height: 100%;
   text-transform: uppercase;
-  margin-bottom: 6px;
   margin-block-end: 16px;
   font-family: 'Oswald', Arial, sans-serif;
   white-space: nowrap;
